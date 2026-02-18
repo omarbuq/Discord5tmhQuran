@@ -5,4 +5,11 @@
 
 - عط صلاحيه للبوت للمنشن والكتابه وإرسال 
 
+طريقة التشغيل
+
+npm install discord.js node-schedule adhan
+
+بعدها شغل البوت بـ
+- node index.js
+
 لاتنسونا من صالح دعائكم
